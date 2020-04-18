@@ -20,6 +20,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         String city = scanner.next();
 
+        //This is a test to commit something to GitHub
 
 
         String url = "https://api.openweathermap.org/data/2.5/weather";
